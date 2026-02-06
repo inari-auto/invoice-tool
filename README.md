@@ -67,12 +67,12 @@ receipt:領収書
 
 ## サンプルPDF
 
-- [見積書サンプル](sample_estimte.ABC商事.pdf)
-- [見積書サンプル](sample_estimte.XYZ株式会社.pdf)
-- [請求書サンプル](sample_invoice.ABC商事.pdf)
-- [請求書サンプル](sample_invoice.XYZ株式会社.pdf)
-- [領収書サンプル](sample_receipt.ABC商事.pdf)
-- [領収書サンプル](sample_receipt.XYZ株式会社.pdf)
+- [見積書サンプル](samples/sample_estimate.ABC商事.pdf)
+- [見積書サンプル](samples/sample_estimate.XYZ株式会社.pdf)
+- [請求書サンプル](samples/sample_invoice.ABC商事.pdf)
+- [請求書サンプル](samples/sample_invoice.XYZ株式会社.pdf)
+- [領収書サンプル](samples/sample_receipt.ABC商事.pdf)
+- [領収書サンプル](samples/sample_receipt.XYZ株式会社.pdf)
 
 👤 Author
 	•	Name:稲荷

@@ -31,9 +31,8 @@ CSVファイルから、Excel請求書 ＋ PDF請求書を自動生成するPyth
 
 data/invoice.csvに以下形式で入力：
 
-date,area,client,product,project,price,quantity
+<img width="339" height="166" alt="sample_gui" src="https://github.com/user-attachments/assets/ef644ce1-0c6e-49e3-9c26-499c0cf4b392" />
 
-2026-02-01,東京,ABC商事,Web制作,HP制作,50000,1
 
 
 ### ② 実行

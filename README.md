@@ -65,9 +65,14 @@ receipt:領収書
 
 ---
 
-## サンプル
+## サンプルPDF
 
-※ 実行結果サンプルは /samples フォルダ参照
+- [見積書サンプル](samples/sumple_estimte.ABC商事.pdf)
+- [見積書サンプル](samples/sumple_estimte.XYZ株式会社.pdf)
+- [請求書サンプル](samples/sumple_invoice.ABC商事.pdf)
+- [請求書サンプル](samples/sumple_invoice.XYZ株式会社.pdf)
+- [領収書サンプル](samples/sumple_receipt.ABC商事.pdf)
+- [領収書サンプル](samples/sumple_receipt.XYZ株式会社.pdf)
 
 👤 Author
 	•	Name:稲荷

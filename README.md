@@ -70,7 +70,7 @@ receipt:領収書
 ※ 実行結果サンプルは /samples フォルダ参照
 
 👤 Author
-	•	Name: 勇人
+	•	Name:稲荷
 	•	GitHub: https://github.com/inari-auto
 
 ## License

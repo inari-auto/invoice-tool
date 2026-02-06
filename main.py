@@ -5,7 +5,7 @@ from pdf_tool import make_pdf
 TAX_RATE = 0.1
 
 # CSV読み込み
-df = pd.read_csv("sumples/sumple_invoice.csv")
+df = pd.read_csv("samples/sample_invoice.csv")
 
 # 日付をdatetimeに変換（計算用）
 df["date_dt"] = pd.to_datetime(df["date"])
